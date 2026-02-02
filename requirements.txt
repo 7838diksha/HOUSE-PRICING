@@ -3,5 +3,6 @@ numpy
 streamlit
 scikit-learn==1.6.1
 matplotlib
-altair.vegalite.v4
+altair==4.2.2
+
 
